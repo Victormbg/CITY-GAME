@@ -1,0 +1,16 @@
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\bin\x86\Debug\cidade.exe
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\bin\x86\Debug\cidade.pdb
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\obj\x86\Debug\cidade.csprojResolveAssemblyReference.cache
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\obj\x86\Debug\cidade.exe
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\obj\x86\Debug\cidade.pdb
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\bin\x86\Debug\Content\back2.xnb
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidade\bin\x86\Debug\Content\carro.xnb
+F:\microsoft visual studio\cidade\cidade\cidade\bin\x86\Debug\Content\back2.xnb
+F:\microsoft visual studio\cidade\cidade\cidade\bin\x86\Debug\Content\carro.xnb
+F:\microsoft visual studio\cidade\cidade\cidade\bin\x86\Debug\cidade.exe
+F:\microsoft visual studio\cidade\cidade\cidade\bin\x86\Debug\cidade.pdb
+F:\microsoft visual studio\cidade\cidade\cidade\obj\x86\Debug\cidade.csprojResolveAssemblyReference.cache
+F:\microsoft visual studio\cidade\cidade\cidade\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\microsoft visual studio\cidade\cidade\cidade\obj\x86\Debug\cidade.exe
+F:\microsoft visual studio\cidade\cidade\cidade\obj\x86\Debug\cidade.pdb

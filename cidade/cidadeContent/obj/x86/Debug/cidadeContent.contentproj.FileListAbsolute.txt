@@ -1,0 +1,2 @@
+c:\users\alexandre\documents\visual studio 2013\Projects\cidade\cidade\cidadeContent\obj\x86\Debug\cidadeContent.contentprojResolveAssemblyReference.cache
+F:\microsoft visual studio\cidade\cidade\cidadeContent\obj\x86\Debug\cidadeContent.contentprojResolveAssemblyReference.cache
